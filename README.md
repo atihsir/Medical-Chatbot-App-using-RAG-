@@ -1,1 +1,1 @@
-# Medical-Chatbot-App-using-RAG-
+# Medical-Chatbot-App-using-RAG
