@@ -82,7 +82,7 @@ Create an IAM user with these policies:
 Save the URI (example):
 
 ```bash
-315865595366.dkr.ecr.us-east-1.amazonaws.com/medicalbot
+841510003847.dkr.ecr.us-east-1.amazonaws.com/medicalbot
 ```
 
 ### 3. Launch EC2 Instance & Install Docker
