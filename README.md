@@ -21,3 +21,8 @@
 
 ```bash
 git clone https://github.com/atihsir/Medical-Chatbot-App-using-RAG-.git
+
+<h3>2️⃣ Create a Conda Environment</h3>
+```bash
+conda create -n medibot python=3.10 -y
+conda activate medibot
